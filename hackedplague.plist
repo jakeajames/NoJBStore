@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://down.weapp.com/apps/zb/002/13/47/00/57ec866bdc3fb54d1820f5df.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://img.haima.me/images/hm/icon/2016/0902/698681501102412d8e8a14e1c9f9f453.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.appfreeze.afterlight</string>
+               <key>bundle-version</key>
+               <string>1.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>title</key>
+               <string>Plague Inc. Hacked by @jakeashacks </string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>

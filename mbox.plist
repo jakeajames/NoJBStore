@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://d3bgf4y6nbjwg6.cloudfront.net/116472/479dcbccbbedc7f93a250583115db3d093a2a528/moviebox.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://ipa.othman.cc/ipa/mbox.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>enjoy.appfreeze.flappy</string>
+               <key>bundle-version</key>
+               <string>0.33.1</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>title</key>
+               <string>Moviebox by @jakeashacks</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>

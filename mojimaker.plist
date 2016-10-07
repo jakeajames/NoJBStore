@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://appfreeze.altervista.org/app/mojimaker.ipa/</string>
+				</dict>
+			<dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://is4.mzstatic.com/image/thumb/Purple62/v4/7e/33/c2/7e33c255-bd0b-41fa-7efa-05cf753a977e/source/512x512bb.jpg</string>
+               </dict>
+</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xiaoji.gamecenter</string>
+				<key>bundle-version</key>
+				<string>201607041440W</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Moji Maker by @jakeashacks</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

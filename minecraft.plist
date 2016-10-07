@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://down.weapp.com/apps/zb/000/14/13/90/57ecbec20ba062325307367e.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://appfreeze.altervista.org/AppFreeze/9792757g5gfgttc66d78duddhdhllllllllllllllllIlIIGO_AWAY_NOW!!!!HUUGUuguggdsugfysgfs/minecraftpe.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.appfreeze.minecraftpe</string>
+               <key>bundle-version</key>
+               <string>1.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>title</key>
+               <string>Minecraft: Pocket Edition by @jakeashacks </string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>

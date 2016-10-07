@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://dl.le890.com/infinite/201609/29/e0039f1a4a77472d8517fa71637bad20.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://www.weapp.com/picture/app_ios/cn/002/13/47/52/512x512bb.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>enjoy.appfreeze.flappy</string>
+               <key>bundle-version</key>
+               <string>0.33.1</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>title</key>
+               <string>Hacked Candy Crush Saga by @jakeashacks</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>

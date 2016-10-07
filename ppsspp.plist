@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://appfreeze.altervista.org/ppsspp.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://firicon.fir.im/58a1aa411f3c5a8d79ab3456c86be0e211aadda7</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>Pp.appfreeze.flappy</string>
+               <key>bundle-version</key>
+               <string>0.33.1</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>title</key>
+               <string>PPSSPP by @jakeashacks</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>

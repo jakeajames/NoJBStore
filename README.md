@@ -1,1 +1,1 @@
-# NoJBStore
+# AppFreeze
