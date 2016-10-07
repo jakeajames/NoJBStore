@@ -24,13 +24,13 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.appfreeze.afterlight</string>
+               <string>com.renderstore.afterlight</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>Afterlight by @TheRenderProyect </string>
+               <string>Afterlight by @TRProyect </string>
            </dict>
        </dict>
    </array>
