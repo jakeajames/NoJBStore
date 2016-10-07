@@ -17,13 +17,13 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>enjoy.iapps4you.gba4ios</string>
+               <string>enjoy.renderstore.gba4ios</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>GBA4iOS by @jakeashacks</string>
+               <string>GBA4iOS by @TRProyect</string>
            </dict>
        </dict>
    </array>

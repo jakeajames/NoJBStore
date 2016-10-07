@@ -24,13 +24,13 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.appfreeze.geometry</string>
+               <string>com.renderstore.geometry</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>Geometry Dash by @jakeashacks</string>
+               <string>Geometry Dash by @TRProyect</string>
            </dict>
        </dict>
    </array>

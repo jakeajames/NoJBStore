@@ -24,13 +24,13 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>enjoy.appfreeze.hip4u</string>
+               <string>enjoy.renderstore.hip4u</string>
                <key>bundle-version</key>
                <string>0.33.1</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>Hipstore by @jakeashacks</string>
+               <string>Hipstore by @TRProyect</string>
            </dict>
        </dict>
    </array>
